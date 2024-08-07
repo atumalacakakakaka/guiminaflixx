@@ -17,6 +17,8 @@ section {
   background: rgb(184, 156, 213);
   padding-bottom: 80px;
   padding-top: 80px;
+  padding-left: 20px;
+  padding-right: 20px;
   display: flex;
   justify-content: center;
 }
@@ -41,11 +43,6 @@ img {
   display: flex;
   overflow-x: auto;
   gap: 10px;
-}
-
-section {
-  padding-left: 20px;
-  padding-right: 20px;
 }
 
 .chamada {
@@ -75,3 +72,4 @@ section {
 .categoria h2 {
   color: rgb(42, 122, 228);
 }
+
